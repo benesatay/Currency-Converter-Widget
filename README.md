@@ -1,3 +1,3 @@
 # Currency-Converter-Widget
 
-![](image.png)
+![](widgetimage.png)
